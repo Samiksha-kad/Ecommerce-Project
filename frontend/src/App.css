@@ -1,0 +1,706 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alegreya&family=Arvo&family=Bebas+Neue&family=Bree+Serif&family=Roboto+Slab&family=Signika+Negative:wght@300&family=Smythe&display=swap');
+.App { 
+  text-align: center;
+} 
+
+
+.img_box1_account{
+    margin-top: 1rem;
+    margin-left: 3rem; 
+    width: 54%; 
+    height:30%;
+}
+.profileImg_account{ 
+    width:100%;
+    height: 24vh;
+    margin-bottom: 5rem;
+    border-radius: 50%; 
+}
+.heading_name_profile{
+    margin-top: 2rem;
+    margin-left: 3.5rem;
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+}
+
+li{
+    list-style: none;
+    font-family: 'Signika', sans-serif;
+}
+
+.heading_name_address{
+    margin:0.2rem;
+}
+
+.close_address{
+    width: 50px; 
+    height: 50px;
+} 
+#cart_page::before{
+    content:"";
+    position:absolute; 
+    background: #E6E7EB;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    opacity: 0.9;
+}
+.cart_container{
+    margin: 2rem;
+    width:95%;
+    max-height:80vh;
+    overflow:auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.cart_img{
+    width: 5rem;
+    height: 5rem;
+    margin-right: 1rem;
+    
+}
+.heading_cart{
+    font-size: 1.7rem;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing:1px; 
+}
+.table_heading_cart{ 
+    font-family: 'Roboto Slab', serif;
+}
+.cost_cart{
+    color:red;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1rem;
+}
+
+.product_cost{
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1rem; 
+}
+
+.orderSummary_cart::before{
+    content:"";
+    position:absolute;
+    background: #DBDCDF;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    opacity: 0.9;
+}
+.gif_cart{
+    width: 29rem;
+    height: 29rem;
+}
+.heading_change_password{  
+    text-align: center;
+    font-family: 'Alegreya', serif;
+    margin-bottom: 1.3rem;
+}
+.change_input_password{
+    width: 60%;  
+    padding: 0.5em;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+} 
+.changepass{
+    margin-top: 5rem;
+    border: 2px solid;
+    width: 80%;
+    margin-left: 5rem;
+    border-radius: 10px;
+    padding: 1rem;
+}
+.changePass_Submit{
+    width: 15%;
+    border-radius: 10px;
+    padding: 0.3rem;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
+
+ 
+  
+  .cardPayment {
+    margin: 0;
+    color: white;
+    font-family: 'Electrolize', sans-serif;
+    background-image: url(http://www.newhdwallpapers.in/wp-content/uploads/2014/04/Dandelion-at-Sunset-Nature-HD-Wallpaper.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 533px;
+    height: 345px;
+    margin-top: 6rem;
+    margin-left: 12rem;
+    border-radius: 12px;
+    box-shadow: 2px 2px 0 #222, 2px 2px 15px rgba(0,0,0,0.9);
+    background: black;
+    background: -webkit-linear-gradient(left, #000000, #282828);
+    background: -o-linear-gradient(right, #000000, #282828);
+    background: -moz-linear-gradient(right, #000000, #282828);
+    background: linear-gradient(to right, #000000, #282828)
+  }
+  
+  .form_payment {
+    padding-top: 110px;
+  }
+  
+  .card-title_payment {
+    float:left;
+    margin-left: 15px;
+  }
+  
+  .logo_payment {
+    float: right;
+    margin-top: 15px;
+    margin-right: 15px;
+  }
+  
+  .label_payment {
+    display: block;
+  }
+  
+  .card-number_payment {
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    color: white;
+  }
+  ._input {
+    height: 30px;
+    background-color: transparent;
+    border: none;
+    font-family: 'Electrolize', sans-serif;
+    color: #fff;
+  }
+  
+  .card-name_payment {
+    clear: both;
+    float: left;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    color: #fff;
+  }
+  
+  ._input {
+    height: 30px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-family: 'Electrolize', sans-serif;
+  }
+  
+  ._input:focus {
+    color: #fff;
+    outline: none;
+    border-bottom: 1px solid white;
+  }
+  
+  .select-date_payment {
+    clear: both;
+    float: left;
+    margin-left: 15px;
+  }
+  
+  .card-payment-cvc {
+    float: right;
+    margin-right: 18px;
+  }
+  
+  ._input { 
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-family: 'Electrolize', sans-serif;
+  }
+  
+  select {
+    border: none;
+    background-color: rgba(255,255,255, 0.2);
+    color: #fff;
+  }
+  
+  option {
+    color: #000000;
+  }
+  
+  .buy-button {
+    font-family: 'Electrolize', sans-serif;
+    cursor: pointer;
+    position: relative;
+    margin-top: auto;
+    margin-left: 15rem;
+    margin-right: -100px;
+    padding: 10px 10px;
+    border-radius: 6px;
+    box-shadow: -2px 0px 6px 1px #000000;
+    background-color: #FFAB40;
+    border:none;
+    color: #fff;
+  }
+  
+  .buy-button:hover {
+    background-color: #66BB6A;
+    transition: linear 0.2s;
+  }
+  
+#forgetPass::before{
+    content:"";
+    position:absolute;
+    background: url('https://cdn.mos.cms.futurecdn.net/KMetFQX5UXdhydvbBzUxDA.jpg') no-repeat center/cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    opacity: 0.9;
+}
+.heading_reset_pass{
+    margin-top:6rem;
+    margin-left: 3rem;
+    font-family: 'Roboto Slab', serif;
+}
+.otp_email{
+    color:green;
+    margin-left: 3rem;
+    font-family: 'Roboto Slab', serif;
+}
+.input{
+    width:75%;
+    border-radius: 20px;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    padding: 3px;
+    text-align: center;
+}
+
+.submit_pass_forget{
+    margin-left: 3rem; 
+    margin-top: 1.5rem;
+    border-radius: 20px;
+    background-color:#41ce1e;
+    font-weight: bold;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.resend_forget_pass{
+    margin-left: 2rem;
+    margin-top: 1.5rem;
+    border-radius: 20px;
+    background-color:#ce5f1e;
+    font-weight: bold;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.reset_pass_forget{
+    margin-top: 1rem;
+    margin-left: 3rem;
+    width: 25%;
+    height: 2.2rem;
+    border-radius: 20px;
+    background-color: rgb(55, 204, 10);
+    font-weight: bold;
+    color: white;
+    letter-spacing: 1px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.heading_popular{
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+}
+.seeMore_home{
+    position: absolute;
+    bottom: 2%;
+    left: 45%;
+    cursor: pointer; 
+    background: #A370F0;
+    color: white;
+    font-family: inherit;
+    padding: 0.35em;
+    padding-left: 1.2em;
+    font-size: 17px;
+    font-weight: 500;
+    border-radius: 0.9em;
+    border: none;
+    letter-spacing: 0.05em;
+    display: flex;
+    box-shadow: inset 0 0 1.6em -0.6em #714da6;
+    overflow: hidden;
+    height: 2.6em;
+    padding-right: 3.3em;
+}
+
+.seeMore_home .icon {
+    background: white;
+    margin-left: 1em;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.2em;
+    width: 2.2em;
+    border-radius: 0.7em;
+    box-shadow: 0.1em 0.1em 0.6em 0.2em #7b52b9;
+    right: 0.3em;
+    transition: all 0.3s;
+   }
+   
+.seeMore_home:hover .icon {
+    width: calc(100% - 0.6em);
+   }
+   
+   .seeMore_home .icon svg {
+    width: 1.1em;
+    transition: transform 0.3s;
+    color: #7b52b9;
+   }
+   
+   .seeMore_home:hover .icon svg {
+    transform: translateX(0.1em);
+   }
+   
+   .seeMore_home:active .icon {
+    transform: scale(0.95);
+   }
+
+.carts_home{
+    width: 23.5rem;
+}
+.carts_home:hover{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+.productsImg_home{
+    padding:2.3rem;
+}
+
+.addCart_home{
+    width: 20em;
+    height: 3em;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: inherit;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    margin-left: 0.1rem;
+    cursor: pointer;
+    z-index: 1;
+    box-shadow: 6px 6px 12px #c5c5c5,
+                -6px -6px 12px #ffffff;
+}
+.addCart_home::before{
+    content: '';
+    width: 0;
+    height: 3em;
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(to right,white, #1e90ff, #4169e1 100%);
+    transition: .5s ease;
+    display: block;
+    z-index: -1;
+}
+.addCart_home:hover::before {
+    width: 20em;
+} 
+.features{
+    font-family: 'PT Serif', serif;
+}
+.features:hover{
+    color: rgb(233, 80, 41);
+    
+}
+.login_box::before{
+    content:"";  
+    position:absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    top: 0px;
+    left: 0px;
+    opacity: 0.6;
+}
+.login_box{
+   display: flex;
+   justify-content: center;
+    margin-top: 3rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.login_box img{
+  height: 80%;
+  width: 100%;
+}
+.input{
+    width:90%;
+    padding:10px 10px;
+    outline: none;
+    font-weight: 400; 
+    border:1px solid #607d8b;
+    font-size: 16px;
+    letter-spacing:1px;
+    color:#607d8b;
+    background:transparent;
+    border-radius:30px;
+}
+.login_btn{
+    background:#C29B78;
+    width:27%;
+    color:#fff;
+    outline: none;
+    border:none;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing:1px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 1rem; 
+
+}
+.heading_login{
+    margin-top:6rem;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 1px;
+}
+.google_logo_login{
+    border-radius: 20px;
+    cursor: pointer;
+    width:40%;
+    margin-left:2rem;
+    
+    
+}
+.facebook_logo_login{
+    border-radius: 20px;
+    cursor: pointer;
+    width:40%;
+    margin-left:2rem;
+
+    
+}
+.hr-text {
+    line-height: 1em;
+    position: relative;
+    outline: 0;
+    border: 0;
+    color: black;
+    text-align: center;
+    height: 1.5em;
+    opacity: .5;
+}
+.separator{
+    display: flex;
+    align-items: center;
+  }
+  
+  .separator p{
+    padding: 0 2rem; /* creates the space */
+  }
+  
+  .separator .line{
+    flex: 1;
+    height: 3px;
+    background-color: #000;
+  }
+
+.col_box{
+    height:100%;
+}
+@media (min-width: 768px) and (max-width: 990px) {
+    .col_box {
+        height: 63.6rem;
+    }
+  }
+
+  .active_navbar{
+    color:#fcfcfc;
+}
+.dropdown-toggle::after{
+    visibility:hidden;
+} 
+.entry_data_profile{
+    color:#1e90ff;
+    font-family: 'Bree Serif', serif;
+    margin-left: 3rem; 
+}  
+.register_box::before{
+    content:""; 
+    position:absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    top: 0px;
+    left: 0px; 
+    opacity: 0.6;
+}
+.register_box{
+    display: flex;
+   justify-content: center;
+    margin-top: 3rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.input_register{
+    width:100%; 
+    padding:10px 10px;
+    outline: none;
+    font-weight: 400;
+    border:1px solid #607d8b;
+    font-size: 16px;
+    letter-spacing:1px;
+    color:#607d8b;
+    background:transparent;
+    border-radius:30px;
+}
+
+.google_logo_register{
+    border-radius: 20px;
+    cursor: pointer;
+    width:40%;
+    margin-left:11px;
+    
+    
+}
+.facebook_logo_register{
+    border-radius: 20px;
+    cursor: pointer;
+    width:39%;
+    margin-left: 20px;    
+}
+.heading_register{
+    margin-top:3rem;
+    margin-left: 1rem;
+    font-family: 'Roboto Slab', serif;
+    letter-spacing: 1px;
+}
+
+.radio_btn {
+    margin-top: 1em;
+    height: 20px;
+    width: 20px;
+}
+.female{
+    margin-left: 2em;
+}
+.register_btn{
+    background:#F4847A;
+    width:27%;
+    color:#fff;
+    outline: none;
+    border:none;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing:1px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 1rem; 
+}
+.col_register_box img{
+    height:100%;
+    width:100%;
+}
+.separator{
+    display: flex;
+    align-items: center;
+  }
+  
+  .separator p{
+    padding: 0 2rem; /* creates the space */
+  }
+  
+  .separator .line{
+    flex: 1;
+    height: 3px;
+    background-color: #000;
+  }
+  @media (min-width: 767px) and (max-width: 991px) {
+    .col_register_box {
+        width: 45rem;
+    }
+  } 
+  
+.sidebar_1_product{
+    background-color:white !important
+}
+
+.carts_product{
+    width: 22rem;
+}
+.carts_product:hover{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+.productsImg_cart{
+    padding:2.3rem;
+}
+
+.addCart_product{
+    width: 19em;
+    height: 3em;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: inherit;
+    border: none;
+    position: relative;
+    overflow: hidden;
+    margin-left: 0.1rem;
+    cursor: pointer;
+    z-index: 1;
+    box-shadow: 6px 6px 12px #c5c5c5,
+                -6px -6px 12px #ffffff;
+}
+.addCart_product::before{
+    content: '';
+    width: 0; 
+    height: 3em;
+    border-radius: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(to right,white, #1e90ff, #4169e1 100%);
+    transition: .5s ease;
+    display: block;
+    z-index: -1;
+}
+.addCart_product:hover::before {
+    width: 19em;
+}
+.features_product{
+    font-family: 'PT Serif', serif;
+}
+.features_product:hover{
+    color: rgb(233, 80, 41);
+    
+}
+.pagi {   
+        display: flex;   
+        justify-content: space-evenly;   
+        list-style: none;   
+        margin: 20px auto;   
+        width: 40%;
+}  
+.pagi>li {
+    min-width: 30px;   
+    border-radius: 15px;   
+    padding: 2px;  
+    text-align: center;   
+    cursor: pointer;
+    background-color:white;
+    
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}  
+.pagi>li:last-child>a, .pagi>li:nth-child(1)>a 
+
+{   
+    margin: auto 10px;
+    color:black;
+
+}  
+.selected {   
+    background: rgb(1, 2, 8);   
+    color: white !important;   opacity: 0.5;  
+}
+.heading_proname{
+    font-family: 'Arvo', serif; 
+}
