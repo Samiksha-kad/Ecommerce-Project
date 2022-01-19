@@ -1,0 +1,524 @@
+[{
+  "_id": {
+    "$oid": "61d949ae0be889b7bb87a750"
+  },
+  "product_name": "Wild Stone Ultra Sensual Perfume Spray",
+  "product_image": "red_perfume_1.jpg",
+  "product_desc": "Wild Stone Ultra Sensual Perfume Spray for Men, 100ml, A Sensory Treat for\nCasual Encounters, Aromatic Blend of Masculine Fragrances\n",
+  "product_subimages": [
+    "red_perfume_1.jpg",
+    "red_perfume_2.jpg",
+    "red_perfume_3.jpg",
+    "red_perfume_4.jpg"
+  ],
+  "product_cost": 3999,
+  "product_rating": 125.89995485401302,
+  "color_id": {
+    "$oid": "61d70205ff98f37b2f36441c"
+  },
+  "category_id": {
+    "$oid": "61d702b7ff98f37b2f364424"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:22:06.521Z"
+  },
+  "__v": 0,
+  "product_features": "•About this item\n•Item Weight: 100 ml\n•Scent Type: Aromatic Fougere\n•Long lasting fragrance and suitable for casual wear\n•Olfactory Group or Fragrance Note: Citrus freshness with a spicy herbal base as lemon combines with\nlavender, basil, and rosemary, accentuated by the sharp bite of cardamom, fresh coriander, and juniper,\nunderscored by earthy notes of amber, patchouli, and moss\n•While this strong fragrance works best as party wear but can also complement other occasions- formal or\ncasual ",
+  "rated_by": 39
+},{
+  "_id": {
+    "$oid": "61d94a671c9610e4e281d34d"
+  },
+  "product_name": "Samsung Galaxy M12 (Blue,4GB RAM, 64GB Storage) ",
+  "product_image": "blue_phone_1.jpg",
+  "product_desc": "Samsung Galaxy M12 (Blue,4GB RAM, 64GB Storage) 6000 mAh\nwith 8nm Processor | True 48 MP Quad Camera | 90Hz Refresh\nRate",
+  "product_subimages": [
+    "blue_phone_1.jpg",
+    "blue_phone_2.jpg",
+    "blue_phone_3.jpg",
+    "blue_phone_4.jpg"
+  ],
+  "product_cost": 3499,
+  "product_rating": 3,
+  "color_id": {
+    "$oid": "61d701cdff98f37b2f364418"
+  },
+  "category_id": {
+    "$oid": "61d702c5ff98f37b2f364426"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:25:11.484Z"
+  },
+  "__v": 0,
+  "product_features": "About this item\n•48MP+5MP+2MP+2MP Quad camera setup- True 48MP\n(F 2.0) main camera + 5MP (F2.2) Ultra wide camera+\n2MP (F2.4) depth camera + 2MP (2.4) Macro Camera|\n8MP (F2.2) front came\n•6000mAH lithium-ion battery, 1 year manufacturer\nwarranty for device and 6 months manufacturer\nwarranty for in-box accessories including batteries from\nthe date of purchase\n•Android 11, v11.0 operating system,One UI 3.1, with\n8nm Power Efficient Exynos850 (Octa Core 2.0GH\n•16.55 centimeters (6.5-inch) HD+ TFT LCD - infinity vcut display,90Hz screen refresh rate, HD+ resolution\nwith 720 x 1600 pixels resolution, 269 PPI with 16M color\n•Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 1TB| Dual SIM (nano+nano)\ndual-standby (4G+4"
+},{
+  "_id": {
+    "$oid": "61d94ce21c9610e4e281d34f"
+  },
+  "product_name": "Elyraa Casual Western",
+  "product_image": "black_top_1.jpg",
+  "product_desc": "Elyraa Casual Western Stylish Polka Dot Net Top for\nJeans Women/Girls Tops",
+  "product_subimages": [
+    "black_top_1.jpg",
+    "black_top_2.jpg",
+    "black_top_3.jpg",
+    "black_top_4.jpg"
+  ],
+  "product_cost": 1799,
+  "product_rating": 6.25,
+  "color_id": {
+    "$oid": "61d701ecff98f37b2f36441a"
+  },
+  "category_id": {
+    "$oid": "61d702acff98f37b2f364422"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:35:46.492Z"
+  },
+  "__v": 0,
+  "product_features": "Care Instructions: Machine Wash\n•Fit Type: Slim Fit\n•Pattern: Solid/Plain\n•Neck Type: Sweetheartneck\n•Materials: 95% Polyester, 5% Spandex; Stretchable\nFabric; Sleeve: Long Sleeve\n•Occasion: Casual || Party || Beach || Formal || Meeting ||\nOffice Wear\n•Collar Style: Collarless; Fit Type: Slim FitFabric Story\nPolyester :Polyester is the wonder fiber of the 20th century, and makes for comfy durable garments\nwith excellent elasticity. It's resistance to water-based stains and quick drying properties make it\nideal for outdoor clothing.",
+  "rated_by": 3
+},{
+  "_id": {
+    "$oid": "61d94d6b1c9610e4e281d351"
+  },
+  "product_name": "Fogg Xtremo Scent For Men, 100ml",
+  "product_image": "black_perfume_1.jpg",
+  "product_desc": "Wild Stone Ultra Sensual Perfume Spray for Men, 100ml, A Sensory Treat for\nCasual Encounters, Aromatic Blend of Masculine Fragrances",
+  "product_subimages": [
+    "black_perfume_1.jpg",
+    "black_perfume_2.jpg",
+    "black_perfume_3.jpg",
+    "black_perfume_4.jpg"
+  ],
+  "product_cost": 2999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d701ecff98f37b2f36441a"
+  },
+  "category_id": {
+    "$oid": "61d702b7ff98f37b2f364424"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:38:03.332Z"
+  },
+  "__v": 0,
+  "product_features": "About this item\n•Quantity: 100ml; Item Form: Spray\n•Ensures you 800 sprays. Fragrance Segment: Luxury\n•Consists of refreshing\n•Long lasting fragrance. Fragrance stays for almost 4-5 hours of application\n•Usage: Give it a good hard shake first to make sure all the ingredients are mixed together before you spray\nit. You should hold the can approximately 15cm from your body as you spray it.\n•Target Audience: Men. Fragrance Family: Fresh\n•Package Contents: 1 Scent\n•Country of Origin: India\n•Brand •FOGG\n• •\n•Item Form •Sprays\n•Item Weight •310 Grams\n•Item Volume •100 Millilitres"
+},{
+  "_id": {
+    "$oid": "61d94e391c9610e4e281d353"
+  },
+  "product_name": "Mi 11X 5G Cosmic Black 6GB RAM 128GB ROM",
+  "product_image": "black_phone_1.jpg",
+  "product_desc": "Mi 11X 5G Cosmic Black 6GB RAM 128GB ROM | SD\n870 | DisplayMate A+ rated E4 AMOLED | Upto 18\nMonths No Cost EMI,Processor: Qualcomm Snapdragon 870 5G with Kryo 585\nOcta-core; 7nm process; Up to 3.2GHz clock speed;\nLiquidcool technology",
+  "product_subimages": [
+    "black_phone_1.jpg",
+    "black_phone_2.jpg",
+    "black_phone_3.jpg",
+    "black_phone_4.jpg"
+  ],
+  "product_cost": 1599,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d701ecff98f37b2f36441a"
+  },
+  "category_id": {
+    "$oid": "61d702c5ff98f37b2f364426"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:41:29.050Z"
+  },
+  "__v": 0,
+  "product_features": "About this item\n•Processor: Qualcomm Snapdragon 870 5G with Kryo 585\nOcta-core; 7nm process; Up to 3.2GHz clock speed;\nLiquidcool technology\n•Camera: 48 MP Triple Rear camera with 8MP Ultra-wide and\n5MP Super macro | 20 MP Front camera\n•Display: 120Hz high refresh rate FHD+ (1080x2400)\nAMOLED Dot display; 16.9 centimeters (6.67 inch); 2.76mm\nultra tiny punch hole; HDR 10+ support; 360Hz touch sampling, MEMC technology\n•Battery: 4520 mAH large battery with 33W fast\ncharger in-box and Type-C connectivity\n•Hands-Free access to Alexa: Alexa on your phone\nlets you make phone calls, open apps, control\nsmart home devices, access the library of Alexa\nskills, and more using just your voice while on-thego. Download the Alexa app and complete handsfree setup to get started. Just ask - and Alexa will\nrespond instantly"
+},{
+  "_id": {
+    "$oid": "61d94ec4d8563ba13aead103"
+  },
+  "product_name": "Wild Stone Hydra Energy Perfume",
+  "product_image": "blue_perfume_1.jpg",
+  "product_desc": "Wild Stone Hydra Energy Perfume Spray for Men, 100ml, Allpurpose Perfume for Active Men, Citrus Freshness and Aquatic\nEnergy\nBrand Wild Stone\nScent Hydra Energy\nItem Form Spray\nItem Weight 398 Grams\nItem Volume 398 Millilitres",
+  "product_subimages": [
+    "blue_perfume_1.jpg",
+    "blue_perfume_2.jpg",
+    "blue_perfume_3.jpg",
+    "blue_perfume_4.jpg"
+  ],
+  "product_cost": 4499,
+  "product_rating": 3,
+  "color_id": {
+    "$oid": "61d701cdff98f37b2f364418"
+  },
+  "category_id": {
+    "$oid": "61d702b7ff98f37b2f364424"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:43:48.452Z"
+  },
+  "__v": 0,
+  "product_features": "About this item;-\n•Item Weight: 100 ml\n•Scent Type: Aromatic Fougere\n•Long lasting fragrance and suitable for office wear, formal wear or casual wear\n•Olfactory Group or Fragrance Note: Citrus blast of orange, lemon, and bergamot with a hint of lavender,\nresting on the floral notes of lily, jasmine, geranium, and basil, in a robust body of amber, musk, vetiver,\nsandalwood\n•Directions to Use: Shake the perfume well before use, hold the spray at least 15cm away from your body or\nclothes, rub pulse points to fully activate the perfume.\n"
+},{
+  "_id": {
+    "$oid": "61d94f86d8563ba13aead105"
+  },
+  "product_name": "Samsung Galaxy S21 FE 5G (Graphite, 8GB, 128GB\nStorage)\n",
+  "product_image": "grey_phone_1.jpg",
+  "product_desc": "Samsung Galaxy S21 FE 5G (Graphite, 8GB, 128GB\nStorage) Unlocked for All Carriers\nBrand Samsung\nForm factor Bar\nMemory Storage Capacity 128 GB",
+  "product_subimages": [
+    "grey_phone_1.jpg",
+    "grey_phone_2.jpg",
+    "grey_phone_3.jpg",
+    "grey_phone_4.jpg"
+  ],
+  "product_cost": 2099,
+  "product_rating": 3,
+  "color_id": {
+    "$oid": "61d70218ff98f37b2f36441e"
+  },
+  "category_id": {
+    "$oid": "61d702c5ff98f37b2f364426"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:47:02.652Z"
+  },
+  "__v": 0,
+  "product_features": "•Pro-grade Camera with AI Single Take, Portrait\nMode, Night Mode and 30X Space zoom. Dual\nRecording: Film in both wide and selfie angles\nat the same time | 12MP F1.8 Main Camera\n(Dual Pixel AF & OIS) + 12MP UltraWide Camera\n(123° FOV) + 8MP Telephoto Camera (3x Optic\nZoom, 30X Space Zoom, OIS) | 32 MP F2.2 Front\nCamera\n•16.28cm (6.4-inch) Dynamic AMOLED 2X\nDisplay with120Hz Refresh rate for Smooth\nscrolling. Intelligent Eye Comfort Shield, New\n19.5:9 Screen Ratio with thinner bezel,\n1080x2340 (FHD+) Resolution\n•5G Ready with Octa-core Exynos 2100 (5nm)\nProcessor. Android 11 operating system. Dual\nSim.\n•Iconic Contour Cut Design with 7.9 mm\nthickness. Gorilla Glass Victus and IP68 Water\nResistant .\n•4500 mAh battery with Super Fast Charging & Fast Wireless Charging. Wireless\nPowerShare to charge your compatible devices using your phone. Samsung DeX\nconnectivity. Stereo Speakers sound by AKG. Dolby Atmos."
+},{
+  "_id": {
+    "$oid": "61d94fcdd8563ba13aead107"
+  },
+  "product_name": "Apple iPhone XR (64GB) - (Product) RED",
+  "product_image": "red_phone_1.jpg",
+  "product_desc": "Apple iPhone XR (64GB) - (Product) RED\nIPhone XR Unlocked for All Carriers\nApple\nForm factor Smartphone\nMemory Storage Capacity 64 GB",
+  "product_subimages": [
+    "red_phone_1.jpg",
+    "red_phone_2.jpg",
+    "red_phone_3.jpg",
+    "red_phone_4.jpg"
+  ],
+  "product_cost": 1899,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d70205ff98f37b2f36441c"
+  },
+  "category_id": {
+    "$oid": "61d702c5ff98f37b2f364426"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:48:13.268Z"
+  },
+  "__v": 0,
+  "product_features": "About this item\n•6.1-inch (15.5 cm diagonal) Liquid Retina HD LCD\ndisplay\n•Water and dust resistant (1 meter for up to 30 minutes,\nIP67)\n•Single 12MP Wide camera with Portrait mode, Portrait\nLighting, Depth Control, Smart HDR, and 4K video up to\n60fps\n•7MP TrueDepth front camera system with Portrait mode,\nPortrait Lighting, Depth Control, and 1080p video\n•Face ID for secure authentication\n•A12 Bionic with second-generation Neural Engine\n•Fast-charge capable"
+},{
+  "_id": {
+    "$oid": "61d95087412a0d12fdd59764"
+  },
+  "product_name": "LACOSTE Pour Homme Eau de Toilette 50ml for Men",
+  "product_image": "grey_perfume_1.jpg",
+  "product_desc": "LACOSTE Pour Homme Eau de Toilette 50ml for Men\nBrand Lacoste\nScent Wood\nItem Weight 50 Grams\nItem Volume 1.6 Fluid Ounces\nAge Range (Description) Adult\n",
+  "product_subimages": [
+    "grey_perfume_1.jpg",
+    "grey_perfume_2.jpg",
+    "grey_perfume_3.jpg",
+    "grey_perfume_4.jpg"
+  ],
+  "product_cost": 2599,
+  "product_rating": 3,
+  "color_id": {
+    "$oid": "61d70218ff98f37b2f36441e"
+  },
+  "category_id": {
+    "$oid": "61d702b7ff98f37b2f364424"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:51:19.112Z"
+  },
+  "__v": 0,
+  "product_features": "•About this item\n•Item Weight: 100 ml\n•Scent Type: Aromatic Fougere\n•Long lasting fragrance and suitable for casual wear\n•Olfactory Group or Fragrance Note: Citrus freshness with a spicy herbal base as lemon combines with\nlavender, basil, and rosemary, accentuated by the sharp bite of cardamom, fresh coriander, and juniper,\nunderscored by earthy notes of amber, patchouli, and moss\n•While this strong fragrance works best as party wear but can also complement other occasions- formal or\ncasual.•Directions to Use: Shake the perfume well before use, hold the spray at least 15cm away from your body or\nclothes, rub pulse points to fully activate the perfume.\n"
+},{
+  "_id": {
+    "$oid": "61d950fa412a0d12fdd59766"
+  },
+  "product_name": "Blue Sweetheart Neck Puff Sleeves",
+  "product_image": "blue_top_1.jpg",
+  "product_desc": "This is a genuine LimeStone product. The product comes with a standard manufacturer warranty for 6 Months",
+  "product_subimages": [
+    "blue_top_1.jpg",
+    "blue_top_2.jpg",
+    "blue_top_3.jpg",
+    "blue_top_4.jpg"
+  ],
+  "product_cost": 1999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d701cdff98f37b2f364418"
+  },
+  "category_id": {
+    "$oid": "61d702acff98f37b2f364422"
+  },
+  "created_at": {
+    "$date": "2022-01-08T08:53:14.132Z"
+  },
+  "__v": 0,
+  "product_features": "2.Band Colour:\tBlue\nPRODUCT DETAILS\n• Blue crop regular top\n• Solid\n• Sweetheart neck, three-quarter sleeves, puff sleeves\n• Detail\n• Woven chiffon\n• Tie-ups\nTrend Story\nNew basics: Fashion trends come and go, but a few manage to break the cycle and earn wardrobeessential status. A basic, if you will. New Basics resurface year after year, and outfits wouldnt be the\nsame without them. These pieces are tried-and-true wardrobe staples and act as the foundation to\nevery good look.\nFabric Story\nPolyester: Polyester is the ?wonder fiber? of the 20th century, and makes for comfy durable\ngarments with excellent elasticity. It?s resistance to water-based stains and quick drying properties\nmake it ideal for outdoor clothing"
+},{
+  "_id": {
+    "$oid": "61d952c8412a0d12fdd59768"
+  },
+  "product_name": "Women Grey & Gold-toned Geometric Keyhole\nNeck Puff Sleeves",
+  "product_image": "grey_top_1.jpg",
+  "product_desc": "Grey SweeWomen Grey & Gold-toned Geometric Keyhole\nNeck Puff Sleevestheart Neck Puff Sleeves Chiffon Regular Crop Top",
+  "product_subimages": [
+    "grey_top_1.jpg",
+    "grey_top_2.jpg",
+    "grey_top_3.jpg",
+    "grey_top_4.jpg"
+  ],
+  "product_cost": 2999,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d70218ff98f37b2f36441e"
+  },
+  "category_id": {
+    "$oid": "61d702acff98f37b2f364422"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:00:56.047Z"
+  },
+  "__v": 0,
+  "product_features": "PRODUCT DETAILS\n• Blue crop regular top\n• Solid\n• Sweetheart neck, three-quarter sleeves, puff sleeves\n• Detail\n• Woven chiffon\n• Tie-ups\nTrend Story\nNew basics: Fashion trends come and go, but a few manage to break the cycle and earn wardrobeessential status. A basic, if you will. New Basics resurface year after year, and outfits wouldnt be the\nsame without them. These pieces are tried-and-true wardrobe staples and act as the foundation to\nevery good look.\nFabric Story\nPolyester: Polyester is the ?wonder fiber? of the 20th century, and makes for comfy durable\ngarments with excellent elasticity. It?s resistance to water-based stains and quick drying properties\nmake it ideal for outdoor clothing"
+},{
+  "_id": {
+    "$oid": "61d95331412a0d12fdd5976a"
+  },
+  "product_name": "Istyle Can Women's V-Neck Tie Waist Regular Fit Top",
+  "product_image": "red_top_1.jpg",
+  "product_desc": "Women red & Gold-toned Geometric Keyhole\nNeck Puff Sleeves Smocked Blouson Top",
+  "product_subimages": [
+    "red_top_1.jpg",
+    "red_top_2.jpg",
+    "red_top_3.jpg",
+    "red_top_4.jpg"
+  ],
+  "product_cost": 2399,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d70205ff98f37b2f36441c"
+  },
+  "category_id": {
+    "$oid": "61d702acff98f37b2f364422"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:02:41.715Z"
+  },
+  "__v": 0,
+  "product_features": "Product details:-\nBrand : Istyle Can\nStyle : Elegant\nFit Type : Regular Fit\nNeck : V Neck\nDetails : Front Belt / Front Knot\nSleeve Length : Full Sleeve / Long Sleeve\nSleeve Type : Bishop Sleeve\nOccasion : Casual , Party , Formal , Ceremony\nFabric : American Crepe\nColours : Maroon , red, Black\nWash Care : Hand Wash Or Machine WashFabric Story\nPolyester :Polyester is the wonder fiber of the 20th century, and makes for comfy durable garments\nwith excellent elasticity. It's resistance to water-based stains and quick drying properties make it\nideal for outdoor clothing.A basic, if you will. New Basics resurface year after year, and outfits wouldnt be the\nsame without them. These pieces are tried-and-true wardrobe staples and act as the foundation to\nevery good look."
+},{
+  "_id": {
+    "$oid": "61d95394412a0d12fdd5976c"
+  },
+  "product_name": "Amazon Brand - Eono USB PC Gaming Headphones- Surround Sound with Noise-Cancelling Boom mic, Stereo Sound",
+  "product_image": "black_headphone_1.jpg",
+  "product_desc": "Amazon Brand - Eono USB PC Gaming Headphones- Surround Sound with Noise-Cancelling Boom mic, Stereo Sound Wired Over Ear Headphones with RGB Light for PC, Computer, Mac, PS4 Console,Laptop with 3.5mm jack",
+  "product_subimages": [
+    "black_headphone_1.jpg",
+    "black_headphone_2.jpg",
+    "black_headphone_3.jpg",
+    "black_headphone_4.jpg"
+  ],
+  "product_cost": 20999,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d701ecff98f37b2f36441a"
+  },
+  "category_id": {
+    "$oid": "61d7029eff98f37b2f364420"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:04:20.533Z"
+  },
+  "__v": 0,
+  "product_features": "About this item\nTrue Surround Sound Effect: E400 Gaming Headphones delivers quality simulated surround sound to enhance the immersive gaming experience.\nDetachable Mic, Omnidirectional Sensitivity: Pick up your voice more accurately, even in a noisy environment, the microphone of E400 gaming headphones can filter out the noise, allowing you and your teammates have a clearly communication.\nDesign: E400 computer headphone with breathable protein over-ear pads, balanced weight distribution and reduced clamping force to maximize comfort.\nCool LED Light: Delicate RGB lights are designed on the earmuffs to highlight the atmosphere of the game.USB cable is only for RGB lighting.If there is any issue with gaming headphone, please feel free to contact us via Amazon and we will try our best to help you solve the problem.\nWork with: all NEW Xbox One controllers, PlayStation 4, Nintendo Switch and compatible Phone/Tablet devices with a 3.5mm connection, Windows XP, Vista, 7, 8, and 8.1. [Please note that you need extra Microsoft Adapter (Not included) to work with computer headphone if you own an old version Xbox One controller]."
+},{
+  "_id": {
+    "$oid": "61d9541d412a0d12fdd5976e"
+  },
+  "product_name": "Cosmic Byte Over the Ear Wired Headsets with Mic & LED - G4000 Edition (Blue, Pack Of 1)",
+  "product_image": "blue_headphone_1.jpg",
+  "product_desc": "\nBrand\tCosmic Byte\nColour\tBlue\nConnectivity Technology\tWired\nForm Factor\tOver Ear\nNoise Control",
+  "product_subimages": [
+    "blue_headphone_1.jpg",
+    "blue_headphone_2.jpg",
+    "blue_headphone_3.jpg",
+    "blue_headphone_4.jpg"
+  ],
+  "product_cost": 21999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d701cdff98f37b2f364418"
+  },
+  "category_id": {
+    "$oid": "61d7029eff98f37b2f364420"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:06:37.778Z"
+  },
+  "__v": 0,
+  "product_features": "About this item\n1.Primary kind of gaming headset, perfect for playing games, listening music, etc.\n2.Soft cushion head-pad and ear-pad, as well as adjustable length hinges guarantee hours of gaming comfort.\n3.Flexible microphone for exact positioning, and mic with great sensitivity at picking up sounds, your partner can hear your words clearly.\n4.Headphone has a separate Audio and Microphone input Jack. You will need to buy separately 2 female-1 male Audio-Mic splitter to use with single jack devices.\n5.LED light are designed on the earcups, make it look more fashionable and stunning."
+},{
+  "_id": {
+    "$oid": "61d95487412a0d12fdd59770"
+  },
+  "product_name": "FEIYING Camouflage Grey Gaming Headset 3.5mm Wired Gaming Headphone with Adjustable Noise Canc",
+  "product_image": "grey_headphone_1.jpg",
+  "product_desc": "FEIYING Camouflage Grey Gaming Headset 3.5mm Wired Gaming Headphone with Adjustable Noise Canceling Mic, LED Light and Memory Earmuffs for PS4, PC,Gamecube (Adapter Not Included)\nBrand\tFEIYING\nEar Placement\tOn Ear\nColour\tCamouflage Grey\nConnector Type\tWired\nModel Name\tK5CG",
+  "product_subimages": [
+    "grey_headphone_1.jpg",
+    "grey_headphone_2.jpg",
+    "grey_headphone_3.jpg",
+    "grey_headphone_4.jpg"
+  ],
+  "product_cost": 19999,
+  "product_rating": 5,
+  "color_id": {
+    "$oid": "61d70218ff98f37b2f36441e"
+  },
+  "category_id": {
+    "$oid": "61d7029eff98f37b2f364420"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:08:23.474Z"
+  },
+  "__v": 0,
+  "product_features": "About this item\nVersatile Compatibility：Works great with gaming devices such as: PS4, PS4 Pro/Slim, PC. And also compatible with Mac, IOS/Android device, iPad or Mobile phone that have 3.5mm jack etc. Please note you need an extra Microsoft Adapter (Not Included) when connect with an old version controller.\nFlexible Microphone: 360° adjustable high-sensitivity microphone, durable. Can be accurately positioned, the microphone has a high pickup sensitivity, your partner can clearly hear your words.\nRealistic 3D Gaming Sound: Excellent ambient noise isolation and high precision 50mm magnetic neodymium driver give you immersive 360° stereo sound experience. In games like Fortnite, PUBG or CS: GO, it is important for players to hear footsteps and distant gunshots from different directions. Bringing you a vivid sound field with clear sound and shocking sensory sound.\nHumanized Design：superior comfortable and good air permeability protein over-ear pads, Retractable head beam, flexible headband, our lightweight gaming headset accord with human body engineering specifications can reduce hearing impairment and heat sweat.\nEffortlessly Volume Control：Mute button and volume control housed on high-grade durable braided wire are designed conveniently for quick and convenient adjustment."
+},{
+  "_id": {
+    "$oid": "61d955b3412a0d12fdd59772"
+  },
+  "product_name": "Cosmic Byte GS410 Headphones with Mic and for PS5, PS4, Xbox One, Laptop, PC, iPhone and Android Phones (Black/Red)",
+  "product_image": "red_headphone_1.jpg",
+  "product_desc": "Cosmic Byte GS410 Headphones with Mic and for PS5, PS4, Xbox One, Laptop, PC, iPhone and Android Phones (Black/Red)\nBrand\tCosmic Byte\nColour\tRed\nConnectivity Technology\tWired\nHeadphones Jack\t3.5mm Jack",
+  "product_subimages": [
+    "red_headphone_1.jpg",
+    "red_headphone_2.jpg",
+    "red_headphone_3.jpg",
+    "red_headphone_4.jpg"
+  ],
+  "product_cost": 15999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d70205ff98f37b2f36441c"
+  },
+  "category_id": {
+    "$oid": "61d7029eff98f37b2f364420"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:13:23.592Z"
+  },
+  "__v": 0,
+  "product_features": "About this item\nPrimary kind of gaming headset, perfect for playing games, listening music, etc.\nSoft cushion head-pad and ear-pad, as well as adjustable length hinges guarantee hours of gaming comfort\nDelivers clear sound and Deep Bass for Real Game. Little smart in-line Remote Control for sound and Mic\nFlexible microphone for exact positioning and mic with great sensitivity at picking up sounds, your partner can hear your words clearly\nSingle 3.5mm Jack for sound and mic"
+},{
+  "_id": {
+    "$oid": "61d956149f50b020fbf3c05b"
+  },
+  "product_name": "Black Handbag",
+  "product_image": "black_handbag_1.jpg",
+  "product_desc": "Black solid shoulder bag, has a zip closure 1 main compartment, 1 external and 3 inner pockets",
+  "product_subimages": [
+    "black_handbag_1.jpg",
+    "black_handbag_2.jpg",
+    "black_handbag_3.jpg",
+    "black_handbag_4.jpg"
+  ],
+  "product_cost": 899,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d701ecff98f37b2f36441a"
+  },
+  "category_id": {
+    "$oid": "61d702d2ff98f37b2f364428"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:15:00.477Z"
+  },
+  "__v": 0,
+  "product_features": "Product Material: Faux Leather\nProduct Colour: Black\nProduct Occasion: CASUAL, PARTY\nProduct Warrenty: Warranty against manufacturing defects within 10 days of purchase\nWater Resistant: This product is water resistant. Wipe with a dry/damp cloth to clean. Do not wash.\nProduct Pattern: 2 handles; 1 adjustable long belt(detachable), Closure: Snap•Genuine YKK zipper for easy opening and\nclosing of the bag and for absolute safety and\nsecurity of the accessories. The zip is strong,\ndurable and long-lasting which provides for an\neffective use of the bag.; ? Handcrafted in\nIndia, from raw material to production, this\nleather bag for women and for girls is 100% Made in\nIndia product.\n•Included Components: Cross Body Bag"
+},{
+  "_id": {
+    "$oid": "61d956c29f50b020fbf3c05d"
+  },
+  "product_name": "Beclina Women's Handbag",
+  "product_image": "blue_handbag_1.jpg",
+  "product_desc": "Blue solid handheld bag, has a zip closure 1 main compartment, 1 inner pocket",
+  "product_subimages": [
+    "blue_handbag_1.jpg",
+    "blue_handbag_2.jpg",
+    "blue_handbag_3.jpg",
+    "blue_handbag_4.jpg"
+  ],
+  "product_cost": 999,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d701cdff98f37b2f364418"
+  },
+  "category_id": {
+    "$oid": "61d702d2ff98f37b2f364428"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:17:54.449Z"
+  },
+  "__v": 0,
+  "product_features": "Colour: Navt Blue,PU leather material , \nClosure: Zip Closure Strap \nType: Handle;\nOccasion: Casual✅\nParty wear,casual,formal,office use, Light weight and spacious, Designer collection✅\nThis can also be a fantastic gift for your lovely wife or a special friend on her birthday, valentine's day and anniversary to make her feel special and loved✅\nDimensions-;Length:40cm, Height:30cm and Widt:10cm , 2 Compartment, 6 outer Pocket.1 inner pocket,✅•Large Storage Capacity. Plenty of room for\nkeeping your necessities & accessories - cash,\ncards, keys, cosmetic, make-up tit bits,\nhairbrush, wallet, sunglasses, mobile phone\ncharger etc all in one place which makes you\nfeel stress-free while travelling.\n\nDo not expose to extreme heat✅"
+},{
+  "_id": {
+    "$oid": "61d956ff9f50b020fbf3c05f"
+  },
+  "product_name": "Le Platinum PU Leather Latest Trendy Fashion Ladies\nHandbag With Sling Bag & Clutch Combo 3pcs Purse\nSet",
+  "product_image": "grey_handbag_1.jpg",
+  "product_desc": "Grey-Toned textured hobo bag, has a zip closure 1 main compartment, 1 external and 2 inner pockets",
+  "product_subimages": [
+    "grey_handbag_1.jpg",
+    "grey_handbag_2.jpeg",
+    "grey_handbag_3.jpeg",
+    "grey_handbag_4.jpg"
+  ],
+  "product_cost": 1099,
+  "product_rating": 31.5,
+  "color_id": {
+    "$oid": "61d70218ff98f37b2f36441e"
+  },
+  "category_id": {
+    "$oid": "61d702d2ff98f37b2f364428"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:18:55.074Z"
+  },
+  "__v": 0,
+  "product_features": "About\nProduct\nEnrich your look with this purses and handbags from Le Platinum available on Amazon. Le\nPlatinum offers handbags in every style, shape and color. It’s a perfect accessory for your\noutfits. Match it with pair of heels / sandals to give complete look. we deal in stylish\nhandbags | handbags combo | ladies purse begs | shoulder bags | satchel | hand held bag |\nsling bags for women stylish latest\nItem Type Top Handle Satchel, Handbag, Purse, Cross body bag, Shoulder bag\nMaterial PU Leather Women's Handbag With Sling Bag & Wristlet (Set of 3)\nInner\nMaterial Cotton\nSTRONG\nSTRAPS\nThe women's stylish handbags comes with irremovable comfortable hand straps, which are\nstrong enough to support up to 5 KG of stuffs. The stylish hand bags for ladies purse can\nhold your iPad, wallet, makeups, phone, perfumes, gloves and other your daily use items\nand keep them organized.\nItem model\nnumber C25_3PCS_GREY\nItem Weight 960 g\nItem\nDimensions\nLxWxH\n30 x 8 x 20 Centimeters",
+  "rated_by": 9
+},{
+  "_id": {
+    "$oid": "61d957399f50b020fbf3c061"
+  },
+  "product_name": "DailyObjects Red Buterflies ",
+  "product_image": "red_handbag_1.jpg",
+  "product_desc": "DailyObjects Red Buterflies Orbis Round Sling\nCrossbody Bag for girls and women | Vegan leather,\nStylish, Sturdy, Zip closure with Adjustable Straps",
+  "product_subimages": [
+    "red_handbag_1.jpg",
+    "red_handbag_2.jpg",
+    "red_handbag_3.jpg",
+    "red_handbag_4.jpg"
+  ],
+  "product_cost": 899,
+  "product_rating": 4,
+  "color_id": {
+    "$oid": "61d70205ff98f37b2f36441c"
+  },
+  "category_id": {
+    "$oid": "61d702d2ff98f37b2f364428"
+  },
+  "created_at": {
+    "$date": "2022-01-08T09:19:53.714Z"
+  },
+  "__v": 0,
+  "product_features": "•Footed bottom. Detachable and adjustable\nvegan leather strap which provides comfort &\nconvenience while walking or travelling. It is\nsoft, smooth and strong to hold sufficient\nweight and helps to reduce the pressure on\nyour shoulders.\n•Large Storage Capacity. Plenty of room for\nkeeping your necessities & accessories - cash,\ncards, keys, cosmetic, make-up tit bits,\nhairbrush, wallet, sunglasses, mobile phone\ncharger etc all in one place which makes you\nfeel stress-free while travelling.\n•Genuine YKK zipper for easy opening and\nclosing of the bag and for absolute safety and\nsecurity of the accessories. The zip is strong,\ndurable and long-lasting which provides for an\neffective use of the bag.; ?"
+}]

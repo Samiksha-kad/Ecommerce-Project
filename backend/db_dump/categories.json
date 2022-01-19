@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "61d7029eff98f37b2f364420"
+  },
+  "category_name": "Headphones",
+  "created_at": {
+    "$date": "2022-01-06T14:54:22.940Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d702acff98f37b2f364422"
+  },
+  "category_name": "Top",
+  "created_at": {
+    "$date": "2022-01-06T14:54:36.369Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d702b7ff98f37b2f364424"
+  },
+  "category_name": "Perfume",
+  "created_at": {
+    "$date": "2022-01-06T14:54:47.961Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d702c5ff98f37b2f364426"
+  },
+  "category_name": "phone",
+  "created_at": {
+    "$date": "2022-01-06T14:55:01.935Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d702d2ff98f37b2f364428"
+  },
+  "category_name": "Handbag",
+  "created_at": {
+    "$date": "2022-01-06T14:55:14.448Z"
+  },
+  "__v": 0
+}]

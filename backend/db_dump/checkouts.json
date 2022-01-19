@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "61e4f148eff44bf4f58fd921"
+  },
+  "user_email": "kadsamiksha347@gmail.com",
+  "card_name": "Samiksha kad",
+  "subtotal": 9997,
+  "gst": 499.85,
+  "totalCart": [
+    {
+      "_id": "61d949ae0be889b7bb87a750",
+      "product_name": "Wild Stone Ultra Sensual Perfume Spray",
+      "product_image": "red_perfume_1.jpg",
+      "product_desc": "Wild Stone Ultra Sensual Perfume Spray for Men, 100ml, A Sensory Treat for\nCasual Encounters, Aromatic Blend of Masculine Fragrances\n",
+      "product_subimages": [
+        "red_perfume_1.jpg",
+        "red_perfume_2.jpg",
+        "red_perfume_3.jpg",
+        "red_perfume_4.jpg"
+      ],
+      "product_cost": 3999,
+      "product_rating": 125.89995485401302,
+      "color_id": {
+        "_id": "61d70205ff98f37b2f36441c",
+        "color_name": "Red",
+        "color_code": "#E84855",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702b7ff98f37b2f364424",
+        "category_name": "Perfume",
+        "created_at": "2022-01-06T14:54:47.961Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T08:22:06.521Z",
+      "__v": 0,
+      "product_features": "•About this item\n•Item Weight: 100 ml\n•Scent Type: Aromatic Fougere\n•Long lasting fragrance and suitable for casual wear\n•Olfactory Group or Fragrance Note: Citrus freshness with a spicy herbal base as lemon combines with\nlavender, basil, and rosemary, accentuated by the sharp bite of cardamom, fresh coriander, and juniper,\nunderscored by earthy notes of amber, patchouli, and moss\n•While this strong fragrance works best as party wear but can also complement other occasions- formal or\ncasual ",
+      "rated_by": 39,
+      "quantity": 1
+    },
+    {
+      "rated_by": 1,
+      "_id": "61d94d6b1c9610e4e281d351",
+      "product_name": "Fogg Xtremo Scent For Men, 100ml",
+      "product_image": "black_perfume_1.jpg",
+      "product_desc": "Wild Stone Ultra Sensual Perfume Spray for Men, 100ml, A Sensory Treat for\nCasual Encounters, Aromatic Blend of Masculine Fragrances",
+      "product_subimages": [
+        "black_perfume_1.jpg",
+        "black_perfume_2.jpg",
+        "black_perfume_3.jpg",
+        "black_perfume_4.jpg"
+      ],
+      "product_cost": 2999,
+      "product_rating": 4,
+      "color_id": {
+        "_id": "61d701ecff98f37b2f36441a",
+        "color_name": "Black",
+        "color_code": "#000000",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702b7ff98f37b2f364424",
+        "category_name": "Perfume",
+        "created_at": "2022-01-06T14:54:47.961Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T08:38:03.332Z",
+      "__v": 0,
+      "product_features": "About this item\n•Quantity: 100ml; Item Form: Spray\n•Ensures you 800 sprays. Fragrance Segment: Luxury\n•Consists of refreshing\n•Long lasting fragrance. Fragrance stays for almost 4-5 hours of application\n•Usage: Give it a good hard shake first to make sure all the ingredients are mixed together before you spray\nit. You should hold the can approximately 15cm from your body as you spray it.\n•Target Audience: Men. Fragrance Family: Fresh\n•Package Contents: 1 Scent\n•Country of Origin: India\n•Brand •FOGG\n• •\n•Item Form •Sprays\n•Item Weight •310 Grams\n•Item Volume •100 Millilitres",
+      "quantity": 2
+    }
+  ],
+  "addresses": [
+    {
+      "address": "Sawant vihar phase 7",
+      "city": "pune",
+      "pincode": 411046,
+      "states": "Maharashtra",
+      "country": "India"
+    }
+  ],
+  "created_at": {
+    "$date": "2022-01-17T04:32:09.031Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e4fcc94b34574a88837fdc"
+  },
+  "user_email": "raghunathkad3@gmail.com",
+  "card_name": "akansha",
+  "subtotal": 7498,
+  "gst": 374.9,
+  "totalCart": [
+    {
+      "_id": "61d949ae0be889b7bb87a750",
+      "product_name": "Wild Stone Ultra Sensual Perfume Spray",
+      "product_image": "red_perfume_1.jpg",
+      "product_desc": "Wild Stone Ultra Sensual Perfume Spray for Men, 100ml, A Sensory Treat for\nCasual Encounters, Aromatic Blend of Masculine Fragrances\n",
+      "product_subimages": [
+        "red_perfume_1.jpg",
+        "red_perfume_2.jpg",
+        "red_perfume_3.jpg",
+        "red_perfume_4.jpg"
+      ],
+      "product_cost": 3999,
+      "product_rating": 125.89995485401302,
+      "color_id": {
+        "_id": "61d70205ff98f37b2f36441c",
+        "color_name": "Red",
+        "color_code": "#E84855",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702b7ff98f37b2f364424",
+        "category_name": "Perfume",
+        "created_at": "2022-01-06T14:54:47.961Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T08:22:06.521Z",
+      "__v": 0,
+      "product_features": "•About this item\n•Item Weight: 100 ml\n•Scent Type: Aromatic Fougere\n•Long lasting fragrance and suitable for casual wear\n•Olfactory Group or Fragrance Note: Citrus freshness with a spicy herbal base as lemon combines with\nlavender, basil, and rosemary, accentuated by the sharp bite of cardamom, fresh coriander, and juniper,\nunderscored by earthy notes of amber, patchouli, and moss\n•While this strong fragrance works best as party wear but can also complement other occasions- formal or\ncasual ",
+      "rated_by": 39,
+      "quantity": 1
+    },
+    {
+      "rated_by": 1,
+      "_id": "61d94a671c9610e4e281d34d",
+      "product_name": "Samsung Galaxy M12 (Blue,4GB RAM, 64GB Storage) ",
+      "product_image": "blue_phone_1.jpg",
+      "product_desc": "Samsung Galaxy M12 (Blue,4GB RAM, 64GB Storage) 6000 mAh\nwith 8nm Processor | True 48 MP Quad Camera | 90Hz Refresh\nRate",
+      "product_subimages": [
+        "blue_phone_1.jpg",
+        "blue_phone_2.jpg",
+        "blue_phone_3.jpg",
+        "blue_phone_4.jpg"
+      ],
+      "product_cost": 3499,
+      "product_rating": 3,
+      "color_id": {
+        "_id": "61d701cdff98f37b2f364418",
+        "color_name": "Blue",
+        "color_code": "#0000FF",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702c5ff98f37b2f364426",
+        "category_name": "phone",
+        "created_at": "2022-01-06T14:55:01.935Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T08:25:11.484Z",
+      "__v": 0,
+      "product_features": "About this item\n•48MP+5MP+2MP+2MP Quad camera setup- True 48MP\n(F 2.0) main camera + 5MP (F2.2) Ultra wide camera+\n2MP (F2.4) depth camera + 2MP (2.4) Macro Camera|\n8MP (F2.2) front came\n•6000mAH lithium-ion battery, 1 year manufacturer\nwarranty for device and 6 months manufacturer\nwarranty for in-box accessories including batteries from\nthe date of purchase\n•Android 11, v11.0 operating system,One UI 3.1, with\n8nm Power Efficient Exynos850 (Octa Core 2.0GH\n•16.55 centimeters (6.5-inch) HD+ TFT LCD - infinity vcut display,90Hz screen refresh rate, HD+ resolution\nwith 720 x 1600 pixels resolution, 269 PPI with 16M color\n•Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 1TB| Dual SIM (nano+nano)\ndual-standby (4G+4",
+      "quantity": 1
+    }
+  ],
+  "addresses": [
+    {
+      "address": "Sawant vihar phase 2",
+      "city": "pune",
+      "pincode": 411046,
+      "states": "Maharashtra",
+      "country": "India"
+    }
+  ],
+  "created_at": {
+    "$date": "2022-01-17T05:21:13.755Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61e696c0780cac89360f93f3"
+  },
+  "user_email": "kadsamiksha347@gmail.com",
+  "card_name": "Samiksha",
+  "subtotal": 6098,
+  "gst": 304.9,
+  "totalCart": [
+    {
+      "rated_by": 1,
+      "_id": "61d94e391c9610e4e281d353",
+      "product_name": "Mi 11X 5G Cosmic Black 6GB RAM 128GB ROM",
+      "product_image": "black_phone_1.jpg",
+      "product_desc": "Mi 11X 5G Cosmic Black 6GB RAM 128GB ROM | SD\n870 | DisplayMate A+ rated E4 AMOLED | Upto 18\nMonths No Cost EMI,Processor: Qualcomm Snapdragon 870 5G with Kryo 585\nOcta-core; 7nm process; Up to 3.2GHz clock speed;\nLiquidcool technology",
+      "product_subimages": [
+        "black_phone_1.jpg",
+        "black_phone_2.jpg",
+        "black_phone_3.jpg",
+        "black_phone_4.jpg"
+      ],
+      "product_cost": 1599,
+      "product_rating": 5,
+      "color_id": {
+        "_id": "61d701ecff98f37b2f36441a",
+        "color_name": "Black",
+        "color_code": "#000000",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702c5ff98f37b2f364426",
+        "category_name": "phone",
+        "created_at": "2022-01-06T14:55:01.935Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T08:41:29.050Z",
+      "__v": 0,
+      "product_features": "About this item\n•Processor: Qualcomm Snapdragon 870 5G with Kryo 585\nOcta-core; 7nm process; Up to 3.2GHz clock speed;\nLiquidcool technology\n•Camera: 48 MP Triple Rear camera with 8MP Ultra-wide and\n5MP Super macro | 20 MP Front camera\n•Display: 120Hz high refresh rate FHD+ (1080x2400)\nAMOLED Dot display; 16.9 centimeters (6.67 inch); 2.76mm\nultra tiny punch hole; HDR 10+ support; 360Hz touch sampling, MEMC technology\n•Battery: 4520 mAH large battery with 33W fast\ncharger in-box and Type-C connectivity\n•Hands-Free access to Alexa: Alexa on your phone\nlets you make phone calls, open apps, control\nsmart home devices, access the library of Alexa\nskills, and more using just your voice while on-thego. Download the Alexa app and complete handsfree setup to get started. Just ask - and Alexa will\nrespond instantly",
+      "quantity": 1
+    },
+    {
+      "rated_by": 1,
+      "_id": "61d94ec4d8563ba13aead103",
+      "product_name": "Wild Stone Hydra Energy Perfume",
+      "product_image": "blue_perfume_1.jpg",
+      "product_desc": "Wild Stone Hydra Energy Perfume Spray for Men, 100ml, Allpurpose Perfume for Active Men, Citrus Freshness and Aquatic\nEnergy\nBrand Wild Stone\nScent Hydra Energy\nItem Form Spray\nItem Weight 398 Grams\nItem Volume 398 Millilitres",
+      "product_subimages": [
+        "blue_perfume_1.jpg",
+        "blue_perfume_2.jpg",
+        "blue_perfume_3.jpg",
+        "blue_perfume_4.jpg"
+      ],
+      "product_cost": 4499,
+      "product_rating": 3,
+      "color_id": {
+        "_id": "61d701cdff98f37b2f364418",
+        "color_name": "Blue",
+        "color_code": "#0000FF",
+        "__v": 0
+      },
+      "category_id": {
+        "_id": "61d702b7ff98f37b2f364424",
+        "category_name": "Perfume",
+        "created_at": "2022-01-06T14:54:47.961Z",
+        "__v": 0
+      },
+      "created_at": "2022-01-08T08:43:48.452Z",
+      "__v": 0,
+      "product_features": "About this item;-\n•Item Weight: 100 ml\n•Scent Type: Aromatic Fougere\n•Long lasting fragrance and suitable for office wear, formal wear or casual wear\n•Olfactory Group or Fragrance Note: Citrus blast of orange, lemon, and bergamot with a hint of lavender,\nresting on the floral notes of lily, jasmine, geranium, and basil, in a robust body of amber, musk, vetiver,\nsandalwood\n•Directions to Use: Shake the perfume well before use, hold the spray at least 15cm away from your body or\nclothes, rub pulse points to fully activate the perfume.\n",
+      "quantity": 1
+    }
+  ],
+  "addresses": [
+    {
+      "address": "Sawant vihar phase 7",
+      "city": "pune",
+      "pincode": 411046,
+      "states": "Maharashtra",
+      "country": "India"
+    }
+  ],
+  "created_at": {
+    "$date": "2022-01-18T10:30:24.710Z"
+  },
+  "__v": 0
+}]
